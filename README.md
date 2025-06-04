@@ -5,15 +5,12 @@ L’objectif est de comparer les approches traditionnelles (GLM) aux techniques 
 
 ## Contenu du dépôt
 
-- `modele_GLM.ipynb` : Modélisation avec un modèle Poisson (GLM)
-- `modele_RF_XGB_CatBoost.ipynb` : Implémentation des modèles Random Forest, XGBoost et CatBoost
-- `validation_croisee_et_courbes.ipynb` : Analyse de la stabilité (validation croisée, courbes d’apprentissage)
-- `analyse_SHAP_XGBoost.ipynb` : Analyse d’explicabilité avec SHAP (XGBoost)
+Le code contient : Modélisation avec un modèle Poisson (GLM) Implémentation des modèles Random Forest, XGBoost et CatBoost, Analyse de la stabilité (validation croisée, courbes d’apprentissage), Analyse d’explicabilité avec SHAP (XGBoost)
 
 ## Données utilisées
 
 Les données proviennent de la base **freMTPL2freq** disponible sur OpenML :  
-https://www.openml.org/d/42214
+https://www.openml.org/d/41214
 
 ## Objectif
 
